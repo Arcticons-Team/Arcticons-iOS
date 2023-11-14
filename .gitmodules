@@ -1,4 +1,0 @@
-[submodule "icons"]
-	path = icons/white
-	url = git@github.com:Donnnno/Arcticons.git
-	branch = main
