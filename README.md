@@ -4,6 +4,6 @@
 
 To contribute or use the latest version, visit:
 
-![Arcticons-iOS on Codeberg](https://codeberg.org/Arcticons/Arcticons-iOS)
+[Arcticons-iOS on Codeberg](https://codeberg.org/Arcticons/Arcticons-iOS)
 
 --------
